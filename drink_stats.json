@@ -1,0 +1,1568 @@
+[
+  {
+    "item": {
+      "name": "minecraft:milk_bucket",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_instant_cup",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_instant",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:espresso",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_americano",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_latte",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_coldbrew",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_other",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_americano_ice",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_latte_ice",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_coldbrew_ice",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_other_ice",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_instant_plate",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_americano_plate",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_americano_fruit_plate",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_latte_plate",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_latte_fruit_plate",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_latte_caremel_plate",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_latte_chocolate_plate",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_latte_mint_plate",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_latte_vanilla_plate",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_cappuccino_plate",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_macchiato_plate",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_mochaccino_plate",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_coldbrew_plate",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_coldbrew_fruit_plate",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_coldbrew_latte_plate",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_coldbrew_latte_fruit_plate",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_coldbrew_latte_caramel_plate",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_coldbrew_latte_chocolate_plate",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_coldbrew_latte_mint_plate",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_coldbrew_latte_vanilla_plate",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_americano_ice_plate",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_americano_ice_plate",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_americano_fruit_ice_plate",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_americano_nitro_ice_plate",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_americano_nitro_fruit_ice_plate",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_latte_ice_plate",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_latte_fruit_ice_plate",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_latte_caramel_ice_plate",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_latte_chocolate_ice_plate",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_latte_mint_ice_plate",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_latte_vanilla_ice_plate",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_cappuccino_ice_plate",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_macchiato_ice_plate",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_mochaccino_ice_plate",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_coldbrew_ice_plate",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_coldbrew_fruit_ice_plate",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_coldbrew_latte_ice_plate",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_coldbrew_latte_fruit_ice_plate",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_coldbrew_latte_caramel_ice_plate",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_coldbrew_latte_chocolate_ice_plate",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_coldbrew_latte_mint_ice_plate",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_coldbrew_latte_vanilla_ice_plate",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:cocoa_plate",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:cocoa_strong_plate",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.8,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_latte_sakura_plate",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:cocoa_ice_plate",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:cocoa_strong_ice_plate",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.9,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_latte_sakura_ice_plate",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:tea_drinks",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:tea_ice_drinks",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_grean_tea_plate",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_black_tea_plate",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_milk_tea_plate",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_mandarin_drink_plate",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_grean_tea_ice_plate",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_black_tea_ice_plate",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_milk_tea_ice_plate",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coffee_mandarin_drink_ice_plate",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "coffeework:coldbrew_bottle",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "sakura:bottle_alcoholic",
+      "metadata": 0
+    },
+    "thirst": 4,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "xlfoodmod:beer",
+      "metadata": 0
+    },
+    "thirst": 4,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "sakura:tea",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "xlfoodmod:coffee",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "xlfoodmod:cappuccino",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "teastory:milk_tea",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+ {
+    "item": {
+      "name": "teastory:matcha_drink",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "teastory:lemon_tea",
+      "metadata": 0
+    },
+    "thirst": 4,
+    "hydration": 0.3,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "teastory:white_tea",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "teastory:black_tea",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "teastory:green_tea",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "teastory:oolong_tea",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "teastory:yellow_tea",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "teastory:puer_tea",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "xlfoodmod:chocolate_ice_cream",
+      "metadata": 0
+    },
+    "thirst": 10,
+    "hydration": 0.8,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "xlfoodmod:vanilla_ice_cream",
+      "metadata": 0
+    },
+    "thirst": 10,
+    "hydration": 0.8,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "xlfoodmod:strawberry_ice_cream",
+      "metadata": 0
+    },
+    "thirst": 10,
+    "hydration": 0.8,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "xlfoodmod:speedy_energy_drink",
+      "metadata": 0
+    },
+    "thirst": 12,
+    "hydration": 0.8,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "xlfoodmod:healthy_energy_drink",
+      "metadata": 0
+    },
+    "thirst": 12,
+    "hydration": 0.8,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "xlfoodmod:stealthy_energy_drink",
+      "metadata": 0
+    },
+    "thirst": 12,
+    "hydration": 0.8,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "xlfoodmod:strong_energy_drink",
+      "metadata": 0
+    },
+    "thirst": 12,
+    "hydration": 0.8,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "xlfoodmod:deadly_energy_drink",
+      "metadata": 0
+    },
+    "thirst": 12,
+    "hydration": 0.8,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "xlfoodmod:super_energy_drink",
+      "metadata": 0
+    },
+    "thirst": 12,
+    "hydration": 0.8,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "sakura:cocktail",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:applejuiceitem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.8,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:carrotjuiceitem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:melonjuiceitem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:strawberryjuiceitem",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:grapejuiceitem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.8,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:blueberryjuiceitem",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.8,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:cherryjuiceitem",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:papayajuiceitem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.8,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:starfruitjuiceitem",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:orangejuiceitem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.8,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:peachjuiceitem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.8,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:limejuiceitem",
+      "metadata": 0
+    },
+    "thirst": 5,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:mangojuiceitem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.8,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:pomegranatejuiceitem",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:blackberryjuiceitem",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:raspberryjuiceitem",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:kiwijuiceitem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:cranberryjuiceitem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:cactusfruitjuiceitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.9,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:plumjuiceitem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.8,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:pearjuiceitem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.8,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:apricotjuiceitem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.8,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:figjuiceitem",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.8,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:grapefruitjuiceitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:persimmonjuiceitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:teaitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:raspberryicedteaitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration":0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:chaiteaitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:sweetteaitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:bubbleteaitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:earlgreyteaitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:greenteaitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:rosepetalteaitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:lycheeteaitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:dandelionteaitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:coffeeitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:espressoitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:applesmoothieitem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.8,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:melonsmoothieitem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:strawberrysmoothieitem",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:grapesmoothieitem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.8,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:blueberrysmoothieitem",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.8,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:cherrysmoothieitem",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:papayasmoothieitem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.8,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:starfruitsmoothieitem",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:orangesmoothieitem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.8,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:cranberrysmoothieitem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:plumsmoothieitem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.8,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:pearsmoothieitem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.8,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:apricotsmoothieitem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.8,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:figsmoothieitem",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.8,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:grapefruitsmoothieitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:persimmonsmoothieitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:coconutsmoothieitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:gooseberrysmoothieitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:lemonsmoothieitem",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:cherrysodaitem",
+      "metadata": 0
+    },
+    "thirst": 5,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:colasodaitem",
+      "metadata": 0
+    },
+    "thirst": 5,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:grapesodaitem",
+      "metadata": 0
+    },
+    "thirst": 5,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:lemonlimesodaitem",
+      "metadata": 0
+    },
+    "thirst": 5,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:orangesodaitem",
+      "metadata": 0
+    },
+    "thirst": 5,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:strawberrysodaitem",
+      "metadata": 0
+    },
+    "thirst": 5,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:grapefruitsodaitem",
+      "metadata": 0
+    },
+    "thirst": 5,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:rootbeersodaitem",
+      "metadata": 0
+    },
+    "thirst": 5,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:rootbeerfloatitem",
+      "metadata": 0
+    },
+    "thirst": 5,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:bananamilkshakeitem",
+      "metadata": 0
+    },
+    "thirst": 5,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:chocolatemilkshakeitem",
+      "metadata": 0
+    },
+    "thirst": 5,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:gooseberrymilkshakeitem",
+      "metadata": 0
+    },
+    "thirst": 5,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:strawberrymilkshakeitem",
+      "metadata": 0
+    },
+    "thirst": 5,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:durianmilkshakeitem",
+      "metadata": 0
+    },
+    "thirst": 5,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:raspberrymilkshakeitem",
+      "metadata": 0
+    },
+    "thirst": 5,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:lemonaideitem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:pinacoladaitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.8,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:applecideritem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.9,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:chocolatemilkitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:eggnogitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:energydrinkitem",
+      "metadata": 0
+    },
+    "thirst": 13,
+    "hydration": 0.4,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:fruitpunchitem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:hotchocolateitem",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  }
+]

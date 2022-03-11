@@ -1,0 +1,228 @@
+[
+  {
+    "state": {
+      "block": "toughasnails:campfire",
+      "properties": {
+        "burning": "true"
+      }
+    },
+    "temperature": 5.0
+  },
+  {
+    "state": {
+      "block": "minecraft:lit_furnace",
+      "properties": {}
+    },
+    "temperature": 3.0
+  },
+  {
+    "state": {
+      "block": "minecraft:lava",
+      "properties": {}
+    },
+    "temperature": 15.0
+  },
+  {
+    "state": {
+      "block": "minecraft:flowing_lava",
+      "properties": {}
+    },
+    "temperature": 15.0
+  },
+  {
+    "state": {
+      "block": "minecraft:magma",
+      "properties": {}
+    },
+    "temperature": 12.5
+  }，
+  {
+   "state":{
+	 "block":"galacticraftplanets:dense_ice",
+	 "properties": {}
+	},	
+	"temperature": -16.0
+  },
+  {
+   "state":{
+	 "block":"minecraft:ice",
+	 "properties": {}
+	},	
+	"temperature": -10.0
+  },
+  {
+   "state":{
+	 "block":"minecraft:packed_ice",
+	 "properties": {}
+	},	
+	"temperature": -15.0
+  },
+  {
+   "state":{
+	 "block":"minecraft:blue_ice",
+	 "properties": {}
+	},	
+	"temperature": -15.0
+  },
+  {
+   "state":{
+	 "block":"minecraft:frosted_ice",
+	 "properties": {}
+	},	
+	"temperature": -5
+  },
+  {
+   "state":{
+	 "block":"galacticraftplanets:venus",
+	 "properties": {}
+	},	
+	"temperature": 13.0
+  },
+  {
+   "state":{
+	 "block":"galacticraftplanets:spout",
+	 "properties": {}
+	},	
+	"temperature": 10.0
+  },
+  {
+   "state":{
+	 "block":"galacticraftcore:fallen_meteor",
+	 "properties": {}
+	},	
+	"temperature": 12.5
+  },
+  {
+   "state":{
+	 "block":"galaxyspace:surface_ice",
+	 "properties": {}
+	},	
+	"temperature": -18.0
+  },
+  {
+   "state":{
+	 "block":"galaxyspace:ioblocks",
+	 "properties": {}
+	},	
+	"temperature": 15.0
+  },
+  {
+   "state":{
+	 "block":"europablocks",
+	 "properties": {}
+	},	
+	"temperature": -18.0
+  },
+  {
+   "state":{
+	 "block":"moreplanets:crystallize_lava_fluid",
+	 "properties": {}
+	},	
+	"temperature": 15.0
+  },
+  {
+   "state":{
+	 "block":"extraplanets:glowstone",
+	 "properties": {}
+	},	
+	"temperature": 10.0
+  },
+  {
+   "state":{
+	 "block":"extraplanets:nitrogen",
+	 "properties": {}
+	},	
+	"temperature": -18.0
+  },
+  {
+   "state":{
+	 "block":"extraplanets:frozen_water",
+	 "properties": {}
+	},	
+	"temperature": -15.0
+  },
+  {
+   "state":{
+	 "block":"extraplanets:nitrogen_ice",
+	 "properties": {}
+	},	
+	"temperature": -18.0
+  },
+  {
+   "state":{
+	 "block":"extraplanets:magma",
+	 "properties": {}
+	},	
+	"temperature": 18.0
+  },
+  {
+   "state":{
+	 "block":"extraplanets:frozen_nitrogen",
+	 "properties": {}
+	},	
+	"temperature": -20.0
+  },
+  {
+   "state":{
+	 "block":"extraplanets:iapetus",
+	 "properties": {}
+	},	
+	"temperature": -18.0
+  },
+  {
+   "state":{
+	 "block":"zollerngalaxy:magmarock",
+	 "properties": {}
+	},	
+	"temperature": 15.0
+  },
+  {
+   "state":{
+	 "block":"zollerngalaxy:blazerock",
+	 "properties": {}
+	},	
+	"temperature": 15.0
+  },
+  {
+   "state":{
+	 "block":"thermalfoundation:fluid_petrotheum",
+	 "properties": {}
+	},	
+	"temperature": 16.0
+  },
+  {
+   "state":{
+	 "block":"thermalfoundation:fluid_redstone",
+	 "properties": {}
+	},	
+	"temperature": 13.0
+  },
+  {
+   "state":{
+	 "block":"thermalfoundation:fluid_aerotheum",
+	 "properties": {}
+	},	
+	"temperature": -5
+  },
+  {
+   "state":{
+	 "block":"thermalfoundation:fluid_cryotheum",
+	 "properties": {}
+	},	
+	"temperature": -18
+  },
+  {
+   "state":{
+	 "block":"thermalfoundation:fluid_pyrotheum",
+	 "properties": {}
+	},	
+	"temperature": 18
+  },
+{
+   "state":{
+	 "block":"thermalfoundation:fluid_glowstone",
+	 "properties": {}
+	},	
+	"temperature": 10
+  },
+]
